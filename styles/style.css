@@ -299,6 +299,7 @@ a {
 
 .footer{
   position: relative;
+  min-height: 350px;
   background-color: #1F1F1F;
   z-index: 1;
   border: 3px solid red;
@@ -310,7 +311,7 @@ a {
   margin: 60px auto 40px;
   flex-basis: 711px;
   width: 90%;
-  
+  border: 3px solid rgb(232, 220, 220);
 }
 
 .footer_columns_content_copyright{
@@ -345,6 +346,7 @@ a {
 }
 
 .footer_columns_links{
+  margin-bottom: 16px;
   color: white;
 }
 
