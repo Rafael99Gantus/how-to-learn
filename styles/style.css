@@ -20,13 +20,13 @@
   
 }
 
-.logo_place{
+.logo_place_header{
   margin-top: 30px;
   margin-left: 64px;
   
 }
 
-.title{
+.header_title{
   position: absolute;
   align-self: center;
   width: 730px;
@@ -38,7 +38,7 @@
   /*border: 3px solid red;*/
 }
 
-.subtitle{
+.header_subtitle{
   position: absolute;
   width: 388px;
   left: 64px;
@@ -48,11 +48,11 @@
   font-weight: normal;
 }
 
-.subtitle_link{
+.header_subtitle_link{
   color: #2f80ed;
 }
 
-.main-illustration{
+.header_main-illustration{
   position: absolute;
   width: 765px;
   height: 608px;
@@ -61,7 +61,7 @@
   z-index: 1;
 }
 
-.square-pic {
+.header_square-pic {
   position: absolute;
   height: 568px;
   width: 568px;
