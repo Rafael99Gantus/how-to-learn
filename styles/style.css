@@ -7,6 +7,7 @@
 
 .header {
   position: relative;
+  overflow: hidden;
   background-color:  #f2f2f2;
   height: 100vh;
   min-height: 600px;
@@ -69,6 +70,7 @@
 
 .header__square-pic {
   position: absolute;
+  
   height: 568px;
   width: 568px;
   top: 64px;
@@ -81,7 +83,6 @@
   display: flex;
   justify-content: center;
   padding-top: 100px;
-  padding-bottom: 100px;
  /* border: 3px solid black;*/
 }
 
@@ -90,7 +91,7 @@
   justify-content: space-between;
   margin: auto;
   width: 80%;
- /* border: 3px solid rgb(134, 29, 29);*/
+  /*border: 3px solid rgb(134, 29, 29);*/
 }
 
 .two-columns__brief{
@@ -130,6 +131,65 @@
   font-weight: 600;
 }
 
+.techniques{
+  margin: 0 auto 100px;
+  padding-top: 100px;
+  width: 80%;
+  /*border: 3px solid rgb(10, 228, 64);*/
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 920px;
+  margin: 0 auto 0;
+  padding-left: 0;
+  /*border: 3px solid rgb(244, 48, 9);*/
+}
+
+.cards__item{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 100px;
+  padding-top: 60px;
+  list-style: none;
+  /*border: 3px solid rgb(244, 48, 9);*/
+}
+
+.cards__item:nth-child(3){
+  margin-right: 0;
+}
+
+.cards__image{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin: 0 40px 43px 40px;
+  width: 160px;
+  height: 160px;
+}
+
+.cards__title{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 16px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  /*border: 3px solid rgb(10, 228, 64);*/
+}
+
+.cards__description{
+  text-align: center;
+  margin: 0;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+  /*border: 3px solid rgb(10, 228, 64);*/
+}
+
+
 .section-title{
   display: flex;
   justify-content: center;
@@ -160,7 +220,7 @@
   margin: 0 auto 100px;
   padding-left: 0;
   width: 1100px;
-  /*border: 3px solid rgb(10, 228, 64);*/
+  /*border: 3px solid rgb(32, 10, 228);*/
 }
 
 .table__cell {
@@ -204,6 +264,7 @@
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
+  margin-bottom: 100px;
   background: url(../images/feynman.png) no-repeat left bottom;
   background-size: 867px 637px;
   min-height: 890px;
@@ -246,6 +307,7 @@
   position:relative;
   background-color: #1F1F1F;
   overflow: hidden;
+  padding-top: 90px;
   z-index: 0;
 }
 
@@ -263,7 +325,7 @@
 
 .section-title_theme_dark{
   position:relative;
-  margin-top: 90px;
+  /*margin-top: 90px;*/
   color: white;
   z-index: 1;
 }
@@ -385,5 +447,116 @@
   width: 16px;
   height: 16px;
   /*border: 3px solid red;*/
+}
+
+.video{
+  /*border: 3px solid red;*/
+}
+
+.video__iframes{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 50px auto -60px;
+  /*border: 3px solid red;*/
+}
+
+.video-iframe{
+  width: 516px;
+  height: 316px;
+}
+
+.video-iframe:first-child{
+  margin-right: 20px;
+}
+
+.oakley{
+  padding-top: 160px;
+  background-color: #f2f2f2;
+}
+
+.khan__container{
+  margin: 0 auto 0;
+  width:80%;
+  overflow: hidden;
+  /*border: 3px solid red;*/
+}
+
+.khan__author{
+  margin: 0;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  /*border: 3px solid rgb(0, 0, 0);*/
+}
+
+.khan__title{
+  margin-top: 0;
+  margin-bottom: 50px;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  /*border: 3px solid rgb(139, 198, 0);*/
+}
+
+.khan__quote{
+  margin-bottom: 36px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  max-width: 790px;
+  /*border: 3px solid rgb(0, 0, 0);*/
+}
+
+.khan__quote-author{
+  margin-bottom: 10px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.khan__quote-author-subline{
+  margin-bottom: 68px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.khan__book-container{
+  display: flex;
+}
+
+.khan__book-pic{
+  width: 620px;
+  height: 608px;
+}
+
+.khan__buy-link{
+  text-decoration: none;
+  margin-left: 48px;
+  color: #2f80ed;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  height: 42px;
+  /*border: 3px solid red;*/
+}
+
+.resources{
+  margin-top: 100px;
+  /*border: 3px solid red;*/
+}
+
+.resources__logo-zone{
+  display: flex;
+  margin: 80px auto 217px;
+  width: 1100px;
+  /*border: 3px solid red;*/
+}
+
+.resources__link{
+  width: 270px;
+  height: 38px;
+  /*border: 3px solid rgb(0, 0, 0);*/
 }
 
