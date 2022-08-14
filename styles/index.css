@@ -8,3 +8,20 @@
 @import url(../blocks/9kaufman/kaufman.css);
 @import url(../blocks/10resources/resources.css);
 @import url(../blocks/11footer/footer.css);
+
+
+@import url(../blocks-style/pages/page.css);
+
+@import url(../blocks-style/logo/logo.css);
+
+@import url(../blocks-style/opacity/opacity.css);
+
+@import url(../blocks-style/rotation/rotation.css);
+
+@import url(../blocks-style/two-columns/two-columns.css);
+
+@import url(../blocks-style/sections/sections.css);
+@import url(../blocks-style/sections/theme/section_theme_dark.css);
+
+@import url(../blocks-style/tables/table.css);
+@import url(../blocks-style/tables/theme/table_theme_dark.css);
