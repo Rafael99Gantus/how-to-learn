@@ -39,6 +39,7 @@
   
   .cards__title{
     text-align: center;
+    width: 240px;
     margin-top: 0;
     margin-bottom: 16px;
     line-height: 1.15;
