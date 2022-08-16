@@ -32,6 +32,8 @@
   }
   
   .footer__author{
+    margin-top: 18px;
+    margin-bottom: 18px;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
@@ -42,7 +44,6 @@
   .footer__column-heading{
     margin-top: 0;
     margin-bottom: 20px;
-    width: 123.95px;
     line-height: 30px;
     font-size: 18px;
     font-weight: 600;
@@ -60,7 +61,6 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    min-height: 90px;
     margin-bottom: 16px;
     /*border: 3px solid rgb(36, 22, 224);*/
   }
@@ -70,6 +70,7 @@
     flex-direction: row;
     color: #f2f2f2;
     text-decoration: none;
+    line-height: 30px;
     font-size: 18px;
     font-weight: normal;
     /*border: 3px solid rgb(191, 229, 20);*/
