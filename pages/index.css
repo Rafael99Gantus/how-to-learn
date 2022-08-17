@@ -1,6 +1,16 @@
 @import url(../vendor/normalize.css);
 @import url(../pages/page.css);
 @import url(../opacity/opacity.css);
+@import url(../../two-columns/two-columns.css);
+@import url(../../tables/table.css);
+@import url(../../blocks/feynman/__link/feynman__link.css);
+@import url(../../../blocks/footer/__columns/_content/footer__column_content_social.css);
+@import url(../../blocks/footer/__columns/footer__columns.css);
+@import url(../../rotation/rotation.css);
+@import url(../../rotation/rotation.css);
+@import url(../../blocks/khan/__title/khan__title.css);
+@import url(../../two-columns/two-columns.css);
+@import url(../../blocks/resources/__logo-zone/resources__logo-zone.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/description/description.css);
