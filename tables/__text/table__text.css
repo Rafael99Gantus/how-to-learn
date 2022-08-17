@@ -1,0 +1,14 @@
+.table__text:nth-child(3n){
+    margin-top: 20px;
+  } 
+  
+  .table__text{
+    padding-top: 0;
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    /*border: 3px solid rgb(242, 5, 5);*/
+  }

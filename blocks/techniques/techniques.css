@@ -1,0 +1,11 @@
+@import url(../../sections/section-subtitle/section-subtitle.css);
+@import url(../../sections/section-title/section-title.css);
+@import url(C:/Users/ggant/dev/Projects/First-project/how-to-learn/cards/cards.css);
+
+.techniques{
+    margin: 0 auto 100px;
+    padding-top: 100px;
+    width: 80%;
+    /*border: 3px solid rgb(10, 228, 64);*/
+  }
+  

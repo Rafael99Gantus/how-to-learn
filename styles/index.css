@@ -1,31 +1,15 @@
 @import url(../vendor/normalize.css);
+@import url(../pages/page.css);
+@import url(../opacity/opacity.css);
 
-
-
-@import url(../blocks/1header/header.css);
-@import url(../blocks/2description/description.css);
-@import url(../blocks/3techniques/techniques.css);
-@import url(../blocks/4video/video.css);
-@import url(../blocks/5oakley/oakley.css);
-@import url(../blocks/6feynman/feynman.css);
-@import url(../blocks/8khan/khan.css);
-@import url(../blocks/9kaufman/kaufman.css);
-@import url(../blocks/10resources/resources.css);
-@import url(../blocks/11footer/footer.css);
-
-
-@import url(../blocks-style/pages/page.css);
-
-@import url(../blocks-style/logo/logo.css);
-
-@import url(../blocks-style/opacity/opacity.css);
-
-@import url(../blocks-style/rotation/rotation.css);
-
-@import url(../blocks-style/two-columns/two-columns.css);
-
-@import url(../blocks-style/sections/sections.css);
-@import url(../blocks-style/sections/theme/section_theme_dark.css);
-
-@import url(../blocks-style/tables/table.css);
-@import url(../blocks-style/tables/theme/table_theme_dark.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/footer/footer.css);
