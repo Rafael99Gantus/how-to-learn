@@ -1,11 +1,4 @@
-@import url(../tables/__cell/_theme/table__cell_theme_dark.css);
-@import url(../tables/__heading/_theme/table__heading_theme_dark.css);
-@import url(../tables/__text/_theme/table__text_theme_dark.css);
-
-
-.table_theme_dark{
+.table_theme_dark {
     position: relative;
     margin-bottom: 90px;
-   }
-   
-   
+}
