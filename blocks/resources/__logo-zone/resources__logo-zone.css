@@ -1,7 +1,6 @@
- 
-  .resources__logo-zone{
-    display: flex;
-    margin: 80px auto 217px;
-    width: 1100px;
-    /*border: 3px solid red;*/
-  }
+ .resources__logo-zone {
+   display: flex;
+   margin: 80px auto 217px;
+   width: 1100px;
+   /*border: 3px solid red;*/
+ }

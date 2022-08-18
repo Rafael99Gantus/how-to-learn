@@ -1,12 +1,12 @@
-.two-columns__paragraph{
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    margin-top: 0;
-    margin-bottom: 30px;
-    /*border: 3px solid rgb(10, 228, 64);*/
-  }
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 30px;
+  /*border: 3px solid rgb(10, 228, 64);*/
+}
 
-  .two-columns__paragraph:last-child{
-    margin-bottom: 0;
-  }
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
+}

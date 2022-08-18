@@ -1,7 +1,7 @@
-.footer__column-links{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin-bottom: 16px;
-    /*border: 3px solid rgb(36, 22, 224);*/
-  }
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  /*border: 3px solid rgb(36, 22, 224);*/
+}
