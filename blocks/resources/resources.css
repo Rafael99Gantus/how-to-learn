@@ -1,14 +1,4 @@
-@import url(../../sections/section-subtitle/section-subtitle.css);
-@import url(../../sections/section-title/section-title.css);
-@import url(../../blocks/resources/__link/resources__link.css);
-@import url(../../blocks/resources/__logo/resources__logo.css);
-
-
-
-
-.resources{
-    margin-top: 100px;
-    /*border: 3px solid red;*/
-  }
- 
-  
+.resources {
+  margin-top: 100px;
+  /*border: 3px solid red;*/
+}

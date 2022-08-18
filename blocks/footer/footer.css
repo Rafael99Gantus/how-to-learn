@@ -1,13 +1,7 @@
-
-
-
-
-.footer{
-    box-sizing: border-box;
-    padding-top: 60px;
-    min-height: 350px;
-    background-color: #1F1F1F;
-    /*border: 3px solid rgb(252, 245, 245);*/
-  }
-  
-  
+.footer {
+  box-sizing: border-box;
+  padding-top: 60px;
+  min-height: 350px;
+  background-color: #1F1F1F;
+  /*border: 3px solid rgb(252, 245, 245);*/
+}

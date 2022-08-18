@@ -1,14 +1,7 @@
-@import url(../../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../../sections/section-subtitle/section-subtitle.css);
-@import url(../../sections/section-title/section-title.css);
-@import url(../../tables/table.css);
-@import url(../../rotation/rotation.css);
-
 .kaufman {
-    position:relative;
-    background-color: #1F1F1F;
-    overflow: hidden;
-    padding-top: 90px;
-    z-index: 0;
-  }
-  
+  position: relative;
+  background-color: #1F1F1F;
+  overflow: hidden;
+  padding-top: 90px;
+  z-index: 0;
+}
