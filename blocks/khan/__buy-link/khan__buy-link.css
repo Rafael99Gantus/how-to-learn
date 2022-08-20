@@ -8,3 +8,8 @@
   font-weight: normal;
   /*border: 3px solid red;*/
 }
+
+.khan__buy-link:hover {
+  opacity: 0.5;
+  transition: opacity 1s;
+}
