@@ -40,7 +40,7 @@
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
-/*tables*/
+/*table*/
 /*kaufman digits*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__text/table__text.css);
