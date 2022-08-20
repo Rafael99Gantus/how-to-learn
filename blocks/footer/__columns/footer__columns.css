@@ -1,9 +1,9 @@
 .footer__columns {
-  display: flex;
-  justify-content: space-between;
-  box-sizing: border-box;
-  min-height: 250px;
-  margin: 0 auto 40px;
-  width: 90%;
-  /*border: 3px solid rgb(232, 220, 220);*/
-}
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    min-height: 250px;
+    margin: 0 auto 40px;
+    width: 90%;
+    /*border: 3px solid rgb(232, 220, 220);*/
+  }
